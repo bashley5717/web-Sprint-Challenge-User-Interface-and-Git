@@ -144,3 +144,53 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+/*My styles for Index.html*/
+
+#boxone{
+    background-color:teal;
+}
+#boxtwo{
+    background-color:gold;
+}
+#boxthree{
+    background-color:cadetblue;
+}
+#boxfour{
+    background-color:coral;
+}
+#boxfive{
+    background-color:crimson;
+}
+#boxsix{
+    background-color:forestgreen;
+}
+#boxseven{
+    background-color:darkorchid;
+}
+#boxeight{
+    background-color:hotpink;
+}
+#boxnine{
+    background-color:indigo;
+}
+#boxten{
+    background-color:dodgerblue;
+}
+
+header{
+display:flex;
+flex-direction:row;
+flex-wrap:nowrap;
+justify-content:space-between;
+}
+.topnav{
+    padding-top:2%;
+    padding-left:5%;
+}
+.topnav nav a{
+    text-decoration:none;
+    font-size:20px;
+}
+.lambda{
+    padding-bottom:2%;
+}
