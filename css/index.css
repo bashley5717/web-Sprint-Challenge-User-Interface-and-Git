@@ -194,3 +194,15 @@ justify-content:space-between;
 .lambda{
     padding-bottom:2%;
 }
+
+
+/*About.html styles*/
+.aboutlambda{
+    display:flex;
+    justify-content:space-evenly;
+}
+.buildings{
+    display:flex;
+    justify-content:center;
+    align-content:center;
+}
