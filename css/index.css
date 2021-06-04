@@ -197,12 +197,59 @@ justify-content:space-between;
 
 
 /*About.html styles*/
+h4{
+    padding-top:5%;
+}
+.topabout{
+    border-bottom:3px dotted black;
+    padding-top:3%;
+    padding-bottom:5%;
+}
 .aboutlambda{
     display:flex;
     justify-content:space-evenly;
+    flex-wrap:nowrap;
+}
+.aboutlambda nav a{
+    text-decoration:none;
+    font-size:20px;
 }
 .buildings{
     display:flex;
     justify-content:center;
     align-content:center;
+}
+
+.twotexts{
+    display:flex;
+    padding-bottom:5%;
+    border-bottom:3px dotted black;
+}
+.twotexts .two{
+    padding-left:6%;
+}
+
+.bottomtexts{
+    display:flex;
+    padding-bottom:5%;
+    border-bottom:3px dotted black;
+}
+.bottomtexts .four{
+    padding-left:6%;
+}
+.together{
+    padding-top:5%;
+    padding-bottom:5%;
+}
+.firstblock{
+    display:flex;
+    padding-top:5%;
+    justify-content:space-between;
+    padding-bottom:3%;
+}
+.secondblocks{
+    display:flex;
+    padding-top:5%;
+    justify-content:space-between;
+    padding-bottom:3%;
 }
