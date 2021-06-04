@@ -209,17 +209,17 @@ h4{
     display:flex;
     justify-content:space-evenly;
     flex-wrap:nowrap;
+    margin-top:10px;
 }
 .aboutlambda nav a{
     text-decoration:none;
-    font-size:20px;
+    font-size:25px;
 }
 .buildings{
     display:flex;
     justify-content:center;
     align-content:center;
 }
-
 .twotexts{
     display:flex;
     padding-bottom:5%;
